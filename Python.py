@@ -1,0 +1,7 @@
+print("hello world!!")
+print('my name is','John')
+print('my name is'+' John')
+print('my age is',12)
+print('my age is'+12)
+print('welcome', end = "") 
+print('hello there')
